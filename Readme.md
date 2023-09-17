@@ -1,2 +1,3 @@
-Simple project for study makefiles
+practica is cool 
+krestina sd
 ==================================
